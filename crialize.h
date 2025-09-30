@@ -19,7 +19,7 @@ typedef union vec3 {
 
 typedef struct json_parser_test_str {
     int amount; // ------------- Primitive - int
-    double weight; // ---------- Primitive - double
+    double weight; // ---------- Primitive - doubl
     char name[512]; // --------- Primitive - string
 
     int scores[5]; // ---------- Stack Array - Primitives - int
